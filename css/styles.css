@@ -3,14 +3,19 @@ img {
 
 }
 
+ul {
+  display: inline;
+}
+
 /*Images and About Me section at header*/
 .header-box {
-  border: 2px black; 
-  padding: 1em;
+  background-color: antiquewhite;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 40%;
   float: left; 
-  font-size: small;
-  width: 40vh;
-  height: 25vh;
+  border: 5px solid black;
+  padding: 1 px; 
+  margin: 1; 
 }
 
 .image-box {
@@ -19,11 +24,8 @@ img {
 
 /* Background information "card" w/ education & job experience*/
 .background-information-box-float-right{
-  border: 2px black; 
-  padding: 1em;
-  float: right; 
-  width: 40vh;
-  ≈
+  width: 50%;
+  float: right;
 }
 
 /*Project Columns*/
