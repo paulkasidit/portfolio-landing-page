@@ -1,10 +1,32 @@
-.header-box {
+/*General*/
+img {
 
+}
+
+/*Images and About Me section at header*/
+.header-box {
+  border: 2px black; 
+  padding: 1em;
+  float: left; 
+  font-size: small;
+  width: 40vh;
+  height: 25vh;
 }
 
 .image-box {
 
 }
+
+/* Background information "card" w/ education & job experience*/
+.background-information-box-float-right{
+  border: 2px black; 
+  padding: 1em;
+  float: right; 
+  width: 40vh;
+  ≈
+}
+
+/*Project Columns*/
 
 .side-bar {
 
@@ -14,12 +36,12 @@
 
 }
 
-img {
+.column4 {
 
 }
 
-<!--Project Columns--> 
+/*Why I chose to join a bootcamp placecard at footer of page*/
 
-.column4 {
+.placecard-footer-bottom {
 
 }
