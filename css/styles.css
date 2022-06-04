@@ -137,7 +137,7 @@ a:hover{
   display: inline-block;
   grid-auto-flow: column;
   gap: 10px;
-  border: 2px solid gray;
+  border: 0.5px solid gray;
   height: 400px;
   vertical-align: center;
   position: relative;
@@ -170,4 +170,5 @@ a:hover{
   padding: 1 px; 
   bottom: 0;
   overflow: auto;
+  background-color;
 }
