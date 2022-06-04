@@ -7,7 +7,7 @@ h4 {
   margin: 0%;
 }
 body{
-
+  font-family: monospace;
 }
 
 footer {
@@ -120,6 +120,7 @@ a:hover{
   float: right;
   position: relative;
   grid-template-areas: "inner-div";
+  place-items: center;
 }
 
 
@@ -136,10 +137,11 @@ a:hover{
   display: inline-block;
   grid-auto-flow: column;
   gap: 10px;
-  border: 1px solid #000000;
+  border: 2px solid gray;
   height: 400px;
   vertical-align: center;
   position: relative;
+  background-color: azure;
 }
 
 .column-image{ 
