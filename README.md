@@ -11,7 +11,7 @@
 
 ## Description
 
-This is a website to showcase my portfolio projects. One the top left wil be an "about me" section, and the rest of the information concernign educational and work background in on the right. 
+This is a website to showcase my portfolio projects. On the top left wil be an "about me" section, and the rest of the information concerning educational and work background will be on the right. 
 My projects are displayed in columns, with clickable titles that are linked to their respective repositories. 
 
 GH pages link: https://paulkasidit.github.io/portfolio-landing-page/ 
@@ -27,7 +27,7 @@ You can visit my webpage by clicking [here](https://paulkasidit.github.io/portfo
 
 ## License
 
-Any inquiries or potential issues can be reported to _(kasiditpaul@gmail.com)
+Any inquiries or issues can be reported to _(kasiditpaul@gmail.com)
 
 MIT License
 
