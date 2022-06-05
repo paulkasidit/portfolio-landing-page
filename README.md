@@ -6,14 +6,14 @@
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
 
 ## Description
 
 _{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+
+GH pages link: https://paulkasidit.github.io/portfolio-landing-page/ 
 
 ## Setup/Installation Requirements
 
