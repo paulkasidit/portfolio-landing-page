@@ -129,7 +129,7 @@ a:hover{
 .vertical-center{
   margin: 0;
   position: absolute;
-  top: 20%;
+  top: 30%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
