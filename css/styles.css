@@ -49,7 +49,7 @@ a:hover{
 
 .projects-side-text {
   width: 5%;
-  top: 20%;
+  top: 50%;
   place-items: center;
 }
 
@@ -128,7 +128,7 @@ a:hover{
 
 .vertical-center{
   margin: 0;
-  position: relative;
+  position: absolute;
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
