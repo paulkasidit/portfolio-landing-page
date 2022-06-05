@@ -1,6 +1,6 @@
-# _{Portfolio Landing Page}_
+#### Portfolio Landing Page
 
-#### By _**{List of contributors}**_
+## By
 
 * Kasidit Srisawat (Paul)
 
@@ -27,7 +27,7 @@ You can visit my webpage by clicking [here](https://paulkasidit.github.io/portfo
 
 ## License
 
-Any inquiries or potential issues can be reported to _(kasiditpaul@gmail.com)
+Any inquiries or potential issues can be reported to: kasiditpaul@gmail.com
 
 MIT License
 
