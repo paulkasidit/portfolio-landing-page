@@ -29,7 +29,7 @@ Any inquiries or issues can be reported to _(kasiditpaul@gmail.com)
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2022 Kasidit Srisawat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
