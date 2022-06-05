@@ -48,7 +48,7 @@ a:hover{
 
 .projects-side-text {
   width: 5%;
-  top: 50%;
+  top: 10%;
   place-items: center;
 }
 
@@ -128,7 +128,7 @@ a:hover{
 .vertical-center{
   margin: 0;
   position: absolute;
-  top: 80%;
+  top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
@@ -170,4 +170,5 @@ a:hover{
   padding: 1 px; 
   bottom: 0;
   background-color;
+  overflow: auto;
 }
